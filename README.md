@@ -1,7 +1,7 @@
 <p float="left">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74C6AFF&random=false&width=499&height=40&lines=Hey%2F+I'm+Maíra.+I'm+into+computer+stuff." alt="Typing SVG" /></a>
 
-   <img src="https://github.com/mairamendes/mairamendes/blob/main/pixelart%20(1).png" width="250" align="right" style="margin-left: 15px;">
+   <img src="https://github.com/mairamendes/mairamendes/blob/main/pixelart%20(1).png" width="300" align="right" style="margin-left: 15px;">
 
    <p float="left">
         - I am currently in the second period of systems analysis and development.<br>
