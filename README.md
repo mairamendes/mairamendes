@@ -11,7 +11,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mairamendes&layout=compact&theme=dracula" alt="Top Languages" width="300">
     </td>
     <td>
-      <img src="https://imgur.com/a/zl4PO4Q" width="150" style="border-radius: 50%;">
+      <img src="[https://imgur.com/a/zl4PO4Q](https://imgur.com/a/zl4PO4Q)" width="150" style="border-radius: 50%;">
     </td>
   </tr>
 </table>
