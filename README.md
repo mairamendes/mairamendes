@@ -3,7 +3,6 @@
   <p float="left">
     <samp>
       about me:
-      <br>
         I'm a programmer focusing on full-stack development, and I am currently in the second period of systems analysis and development.<br>
       How to reach me: mairamndes@gmail.com
        <br>
