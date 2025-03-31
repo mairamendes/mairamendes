@@ -1,13 +1,13 @@
 <p float="left">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74C6AFF&random=false&width=499&height=40&lines=Hey%2F+I'm+Maíra.+I'm+into+computer+stuff." alt="Typing SVG" /></a>
 
-   <img src="https://imgur.com/a/zl4PO4Q" width="300" align="right" style="margin-left: 15px; border-radius: 50%;">
+   <img src="https://raw.githubusercontent.com/mairamendes/mairamendes/main/assets/pixelart(1).png") width="300" align="right" style="margin-left: 15px;">
 
    <p float="left">
         - I am currently in the second period of systems analysis and development.<br>
         - I'm a programmer focusing on full-stack development.
      <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mairamendes&layout=compact&theme=codeSTACKr" alt="Top Languages">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mairamendes&layout=compact&theme=dracula" alt="Top Languages">
         <br>
     </p>
 
