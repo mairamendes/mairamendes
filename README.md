@@ -6,7 +6,8 @@
    <p float="left">
         - I am currently in the second period of systems analysis and development.<br>
         - I'm a programmer focusing on full-stack development.
-     <br>
+         <br>
+        <br>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mairamendes&layout=compact&theme=dracula" alt="Top Languages">
         <br>
     </p>
