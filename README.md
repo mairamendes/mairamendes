@@ -4,8 +4,9 @@
    <img src="https://github.com/mairamendes/mairamendes/blob/main/pixelart%20(1).png" width="300" align="right" style="margin-left: 15px;">
 
    <p float="left">
-        - I am currently in the second period of systems analysis and development.<br>
-        - I'm a programmer focusing on full-stack development.
+      Passionate about technology and software development, I am currently pursuing a degree in Systems Analysis and Development at PUC Minas.<br>
+        🔧 Currently learning C# and deepening my knowledge in modularization.<br>
+        📚 I'm a programmer focusing on full-stack development.
          <br>
         <br>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mairamendes&layout=compact&theme=dracula" alt="Top Languages">
