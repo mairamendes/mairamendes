@@ -5,7 +5,7 @@
 
    <p float="left">
       Passionate about technology and software development, I am currently pursuing a degree in Systems Analysis and Development at PUC Minas.<br><br>
-        🔧 Currently learning C# and deepening my knowledge in modularization.<br>
+        🔧 Currently learning C# and deepening my knowledge in fullstack development.<br>
         📚 I'm a programmer focusing on full-stack development.
          <br>
         <br>
