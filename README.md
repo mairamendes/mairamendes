@@ -4,7 +4,7 @@
    <img src="https://github.com/mairamendes/mairamendes/blob/main/pixelart%20(1).png" width="300" align="right" style="margin-left: 15px;">
 
    <p float="left">
-      Passionate about technology and software development, I am currently pursuing a degree in Systems Analysis and Development at PUC Minas.<br><br>
+      Passionate about technology and software development, I am currently pursuing a degree in Systems Analysis and Development at PUC Minas.</br>
         🔧 Currently learning C# and deepening my knowledge in modularization.<br>
         📚 I'm a programmer focusing on full-stack development.
          <br>
