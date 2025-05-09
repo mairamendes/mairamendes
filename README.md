@@ -1,22 +1,21 @@
 # Console.WriteLine("Hello, World!");
 
-<div style="text-align: center;">
+<p float="left">
   <a href="https://git.io/typing-svg">
      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74C6AFF&random=false&width=499&height=40&lines=Hey%2F+I'm+Ma%C3%ADra.+I'm+into+computer+stuff." alt="Typing SVG" />
   </a>
 
-  <img src="https://github.com/mairamendes/mairamendes/blob/main/pixelart%20(1).png" width="300" style="margin-left: 15px;">
+   <img src="https://github.com/mairamendes/mairamendes/blob/main/pixelart%20(1).png" width="300" align="right" style="margin-left: 15px;">
 
-  <p>
-    Passionate about technology and software development, I am currently pursuing a degree in Systems Analysis and Development at PUC Minas.<br><br>
-    🔧 Currently learning C# and deepening my knowledge in fullstack development.<br>
-    📚 I'm a programmer focusing on full-stack development.
-    <br><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mairamendes&layout=compact&theme=dracula" alt="Top Languages">
-    <br>
+   <p float="left">
+      Passionate about technology and software development, I am currently pursuing a degree in Systems Analysis and Development at PUC Minas.<br><br>
+      🔧 Currently learning C# and deepening my knowledge in fullstack development.<br>
+      📚 I'm a programmer focusing on full-stack development.
+      <br>
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mairamendes&layout=compact&theme=dracula" alt="Top Languages">
+      <br>
   </p>
-</div>
-
 
 ##
 
