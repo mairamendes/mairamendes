@@ -36,26 +36,22 @@
 
 ---
 
-### 💼 Professional Experience
-
---
-
 ### 🛠️ Technologies & Tools
 - **Languages:** C#, JavaScript,
 - **Frameworks:** Node.js
 - **Databases:** MySQL, 
 - **Others:** Git
-- 
+  
 ---
 
 ### 📈 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/mairamendes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mairamendes&show_icons=true&hide_border=true&theme=dracula&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mairamendes&show_icons=true&hide_border=true&theme=dracula/>
   </a>
   <a href="https://github.com/mairamendes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mairamendes&layout=compact&hide_border=true&theme=dracula&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mairamendes&layout=compact&hide_border=true&theme=dracula"/>
   </a>
 </div>
 
@@ -64,4 +60,3 @@
 <div style="text-align: center; margin-top: 20px;">
   <img src="https://komarev.com/ghpvc/?username=mairamendes&label=Profile%20views&color=0e75b6&style=flat" alt="lucas-angelo"/>
 </div>
-
