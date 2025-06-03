@@ -11,7 +11,7 @@
 - 🎓 Student of Systems Analysis and Development at PUC Minas.
 - 📚 Technical course in Systems Development at Senai.
 
----
+--
 
 ### 🤝 Connect with Me
 
@@ -30,7 +30,7 @@
   &nbsp;&nbsp;&nbsp;
 </p>
 
----
+-
 
 ### 📖 About Me
 
