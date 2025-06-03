@@ -15,7 +15,7 @@
 
 ### 🤝 Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="https://web-portfolio-lovat-delta.vercel.app/">
     <img src="https://img.shields.io/badge/-Personal%20Website-0A0A0A?style=flat&logo=globe&logoColor=white" alt="Personal Website"/>
   </a>
