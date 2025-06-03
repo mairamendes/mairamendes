@@ -42,7 +42,7 @@ I'm a full-stack developer with a strong interest in building complete web appli
 - **Languages:** C#, JavaScript
 - **Frameworks:** Node.js
 - **Databases:** MySQL
-- **Others:** Git
+- **Others:** Git, HMTL/CSS
   
 ---
 
