@@ -40,9 +40,9 @@ I'm a full-stack developer with a strong interest in building complete web appli
 ---
 
 ### 🛠️ Technologies & Tools
-- **Languages:** C#, JavaScript
+- **Languages:** C#, JavaScript, Visual Basic
 - **Frameworks:** Node.js
-- **Databases:** MySQL
+- **Databases:** MySQL, SQL Server
 - **Others:** Git, HMTL/CSS
   
 ---
