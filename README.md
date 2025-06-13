@@ -10,6 +10,7 @@
 - 📍 Living in Belo Horizonte, Minas Gerais, Brazil
 - 🎓 Student of Systems Analysis and Development at PUC Minas.
 - 📚 Technical course in Systems Development at Senai.
+- 💻 Intern in Systems Development at Group Software.
 
 ---
 
