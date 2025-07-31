@@ -61,5 +61,5 @@ I'm a full-stack developer with a strong interest in building complete web appli
 ---
 
 <div style="text-align: center; margin-top: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=mairamendes&label=Profile%20views&color=0e75b6&style=flat" alt="lucas-angelo"/>
+  <img src="https://komarev.com/ghpvc/?username=mairamendes&label=Profile%20views&color=0e75b6&style=flat" alt="maira mendes"/>
 </div>
