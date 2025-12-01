@@ -1,51 +1,15 @@
-# Console.WriteLine("Hello, World!");
+## 🎀 Hi, I'm Maíra Mendes
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B4D9&center=true&vCenter=true&width=445&separator=%3D&lines=System.out.println(%22Hello+World!%22);%3Dprint(%22Hello+World%22)%3Dcout+%3C%3C+%22Hello+World!%22+%3C%3C+endl;%3Dconsole.log(%22Hello+World%22);)](https://git.io/typing-svg)
 
-<p float="left">
-  <a href="https://git.io/typing-svg">
-     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74C6AFF&random=false&width=499&height=40&lines=Hey%2F+I'm+Ma%C3%ADra.+I'm+into+computer+stuff." alt="Typing SVG" />
-  </a>
+## 💬 About Me:
+💻 Student of Systems Analysis and Development (Puc Minas) and Development Intern with experience in C#, SQL Server, .NET, and VB6/VB.NET, always focused on efficient solutions and skill enhancement.
 
-   <img src="https://github.com/mairamendes/mairamendes/blob/main/pixelart%20(1).png" width="250" align="right" style="margin-left: 15px;">
 
-- 📍 Living in Belo Horizonte, Minas Gerais, Brazil
-- 🎓 Student of Systems Analysis and Development at PUC Minas.
-- 📚 Technical course in Systems Development at Senai.
-- 💻 Intern in Systems Development at Group Software.
-
----
-
-### 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://web-portfolio-lovat-delta.vercel.app/">
-    <img src="https://img.shields.io/badge/-Personal%20Website-0A0A0A?style=flat&logo=globe&logoColor=white" alt="Personal Website"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;  
-  <a href="https://www.linkedin.com/in/mairamndes/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/mairamendes">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
+<p align=center>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,css,html,mysql,git"/>
+      </a>
 </p>
-
----
-
-### 📖 About Me
-
-I'm a full-stack developer with a strong interest in building complete web applications, from front-end interfaces to back-end systems. Currently, I'm in my second semester of a degree in Systems Analysis and Development.
-
----
-
-### 🛠️ Technologies & Tools
-- **Languages:** C#, JavaScript, Visual Basic
-- **Frameworks:** Node.js
-- **Databases:** MySQL, SQL Server
-- **Others:** Git, HMTL/CSS
-  
----
 
 ### 📈 GitHub Stats
 
