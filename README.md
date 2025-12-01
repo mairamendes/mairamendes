@@ -1,5 +1,5 @@
 ## 🎀 Hi, I'm Maíra Mendes
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B4D9&center=true&vCenter=true&width=445&separator=%3D&lines=System.out.println(%22Hello+World!%22);%3Dprint(%22Hello+World%22)%3Dcout+%3C%3C+%22Hello+World!%22+%3C%3C+endl;%3Dconsole.log(%22Hello+World%22);)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B4D9&center=true&vCenter=true&width=445&separator=%3D&lines=Console.WriteLine(%22Hello+World!%22);%3DSystem.out.println(%22Hello+World!%22);%3Dprint(%22Hello+World%22)%3Dcout+%3C%3C+%22Hello+World!%22+%3C%3C+endl;%3Dconsole.log(%22Hello+World%22);)](https://git.io/typing-svg)
 
 ## 💬 About Me:
 💻 Student of Systems Analysis and Development (Puc Minas) and Development Intern with experience in C#, SQL Server, .NET, and VB6/VB.NET, always focused on efficient solutions and skill enhancement.
