@@ -11,17 +11,6 @@
       </a>
 </p>
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/mairamendes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mairamendes&layout=compact&hide_border=true&theme=dracula&cache_seconds=0"/>
-  </a>
-  <a href="https://github.com/mairamendes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mairamendes&layout=compact&hide_border=true&theme=dracula"/>
-  </a>
-</div>
-
 ---
 
 <div style="text-align: center; margin-top: 20px;">
